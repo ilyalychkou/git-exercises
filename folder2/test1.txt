@@ -1,1 +1,2 @@
 install tests
+smoke tests
